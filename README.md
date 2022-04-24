@@ -180,22 +180,22 @@ The latest version of web clients is available for:
 ### Outline Mobile Client Installation on Android via Play Store.
    1. Go to Google Play Store app, find the Outline app and install it: 
       
-      ![Preview of Google Play Store][docs._assets.external-outline-client-1]
+      ![Preview of Google Play Store][docs._assets.external-outline-client-mobile-1]
    2. Open the Outline app and click on the "Add Server" button: 
       
-      ![Preview of Outline Client Mobile: add server][docs._assets.external-outline-client-2]
+      ![Preview of Outline Client Mobile: add server][docs._assets.external-outline-client-mobile-2]
    3. Paste the previously copied access key into the input field and click on the "ADD SERVER" button:
       
-      ![Preview of Outline Client Mobile: Access key][docs._assets.external-outline-client-3]
+      ![Preview of Outline Client Mobile: Access key][docs._assets.external-outline-client-mobile-3]
    4. Click on the "CONNECT" button: 
       
-      ![Preview of Outline Client Mobile: connect to server][docs._assets.external-outline-client-4]
+      ![Preview of Outline Client Mobile: connect to server][docs._assets.external-outline-client-mobile-4]
    5. In the pop-up window, click OK: 
       
-      ![Preview of Outline Client Mobile: pop-up window][docs._assets.external-outline-client-5]
+      ![Preview of Outline Client Mobile: pop-up window][docs._assets.external-outline-client-mobile-5]
    6. Ensure you have successfully connected: 
       
-      ![Preview of Outline Client Mobile: successful connect confirmation][docs._assets.external-outline-client-6]
+      ![Preview of Outline Client Mobile: successful connect confirmation][docs._assets.external-outline-client-mobile-6]
 ### Fixing problems.
    - If in Windows 10 the Outline client does not connect to the server, then you need to disable Hyper V. To do this, open PowerShell as an administrator and enter:
      ```shell
