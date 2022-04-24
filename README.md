@@ -242,16 +242,16 @@ The latest version of web clients is available for:
    8. Click on the "Add server" button:
 
       ![Preview of Outline Client: add server][docs._assets.external-outline-keys-8]
-   9.  Paste the previously copied access key into the input field:
+   9. Paste the previously copied access key into the input field:
 
       ![Preview of Outline Client: paste access key][docs._assets.external-outline-keys-9-10]
    10. Click on the "ADD SERVER" button;
-   11. Click on the "ROUND" or "CONNECT" button: 
+   1. Click on the "ROUND" or "CONNECT" button: 
 
       ![Preview of Outline Client: cennect to server][docs._assets.external-outline-keys-11]
-   12. Ensure you have successfully connected: 
+   1. Ensure you have successfully connected: 
 
-      ![Preview of Outline Client: successful connect confirmation][docs._assets.external-outline-keys-12]
+      ![Preview of Outline Client: successful connect][docs._assets.external-outline-keys-12]
 
    13. If you have several connections to different servers or with different keys, you can rename them in the settings ("three dots" button);
    14. Now you own a private VPS service!
