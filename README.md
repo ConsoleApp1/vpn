@@ -41,24 +41,23 @@ The latest version of web clients is available for:
 4. During the registration process, your Email will receive a confirmation letter: ![Preview of registration confirmation email message][docs._assets.external-pq-hosting-4-5]
 5. You can immediately go to your personal account using the link from the letter;
 6. Go to the private virtual servers page: ![Preview of pq.hosting page][docs._assets.external-pq-hosting-6]
-7. Click on the "Order" button: 
-   ![Preview of bill.pq.hosting page orders button][docs._assets.external-pq-hosting-7]
-8.  Choose your preferred VPS location country (recommended country located in geographic proximity): ![Preview of bill.pq.hosting tariff plans page][docs._assets.external-pq-hosting-8-9]
-9.  Choose your preferred VPS configuration (cheapest recommended) and click "Order" button;
-10. Choose operating system (Ubuntu-20.04 is recommended): ![Preview of bill.pq.hosting service parameters page][docs._assets.external-pq-hosting-10-11]
-11. Click the "Add to cart" button;
-12. Click the "Pay" button: ![Preview of bill.pq.hosting cart page][docs._assets.external-pq-hosting-12]
-13. Choose any convenient payment method. "YooMoney" for example (Available if you are from Russia. Also accepts russian roubles): ![Preview of bill.pq.hosting payment method selection page][docs._assets.external-pq-hosting-13]
-14. Choose a payer or create new one: ![Preview of bill.pq.hosting payer selection page][docs._assets.external-pq-hosting-14-15]
-15. Click on the "Next" button;
-16. Check the payer's main information and change them if necessary: ![Preview of bill.pq.hosting payer information page][docs._assets.external-pq-hosting-16-18]
-17. Check the payer's actual address and change them if necessary;
-18. Click on the "Next" button;
-19. Click on the "Pay" button: ![Preview of bill.pq.hosting payment confirmation page][docs._assets.external-pq-hosting-19]
-20. Choose the final payment method, if you have chosen to pay via YooMoney: ![Preview of yoomoney.ru payment final method selection page][docs._assets.external-pq-hosting-20-21]
-21. Make a payment;
-22. After payment, return to the hosting VPS list page. If the button does not work, you can do it manually: ![Preview of yoomoney.ru completed payment page][docs._assets.external-pq-hosting-22]
-23. In the VPS list page, you will see the VPS with the "Activation in progress" status. Payment can be processed up to 15 minutes. Until this moment, status of the VPS will be "ordered" and this is normal. Activation can also take up to 15 minutes: ![Preview of bill.pq.hosting vps list page: vps activation in progress][docs._assets.external-pq-hosting-23]
+7. Click on the "Order" button: ![Preview of bill.pq.hosting page orders button][docs._assets.external-pq-hosting-7]
+1.  Choose your preferred VPS location country (recommended country located in geographic proximity): ![Preview of bill.pq.hosting tariff plans page][docs._assets.external-pq-hosting-8-9]
+2.  Choose your preferred VPS configuration (cheapest recommended) and click "Order" button;
+3.  Choose operating system (Ubuntu-20.04 is recommended): ![Preview of bill.pq.hosting service parameters page][docs._assets.external-pq-hosting-10-11]
+4.  Click the "Add to cart" button;
+5.  Click the "Pay" button: ![Preview of bill.pq.hosting cart page][docs._assets.external-pq-hosting-12]
+6.  Choose any convenient payment method. "YooMoney" for example (Available if you are from Russia. Also accepts russian roubles): ![Preview of bill.pq.hosting payment method selection page][docs._assets.external-pq-hosting-13]
+7.  Choose a payer or create new one: ![Preview of bill.pq.hosting payer selection page][docs._assets.external-pq-hosting-14-15]
+8.  Click on the "Next" button;
+9.  Check the payer's main information and change them if necessary: ![Preview of bill.pq.hosting payer information page][docs._assets.external-pq-hosting-16-18]
+10. Check the payer's actual address and change them if necessary;
+11. Click on the "Next" button;
+12. Click on the "Pay" button: ![Preview of bill.pq.hosting payment confirmation page][docs._assets.external-pq-hosting-19]
+13. Choose the final payment method, if you have chosen to pay via YooMoney: ![Preview of yoomoney.ru payment final method selection page][docs._assets.external-pq-hosting-20-21]
+14. Make a payment;
+15. After payment, return to the hosting VPS list page. If the button does not work, you can do it manually: ![Preview of yoomoney.ru completed payment page][docs._assets.external-pq-hosting-22]
+16. In the VPS list page, you will see the VPS with the "Activation in progress" status. Payment can be processed up to 15 minutes. Until this moment, status of the VPS will be "ordered" and this is normal. Activation can also take up to 15 minutes: ![Preview of bill.pq.hosting vps list page: vps activation in progress][docs._assets.external-pq-hosting-23]
 24. When the VPS is activated, its status will be changed to "Active". If the status hasn't changed in 15 minutes, try refreshing the page: ![Preview of bill.pq.hosting vps list page: vps active][docs._assets.external-pq-hosting-24]
 25. Select VPS: ![Preview of bill.pq.hosting vps list page: instructions][docs._assets.external-pq-hosting-25-26]
 26. Click on the "Instructions" button;
@@ -164,8 +163,8 @@ The latest version of web clients is available for:
 
       ![Preview of Outline Client: paste access key][docs._assets.external-outline-keys-9-10]
    10. Click on the "ADD SERVER" button;
-   1. Click on the "ROUND" or "CONNECT" button: ![Preview of Outline Client: cennect to server][docs._assets.external-outline-keys-11]
-   1. Ensure you have successfully connected: ![Preview of Outline Client: successful connect][docs._assets.external-outline-keys-12]
+   11. Click on the "ROUND" or "CONNECT" button: ![Preview of Outline Client: cennect to server][docs._assets.external-outline-keys-11]
+   12. Ensure you have successfully connected: ![Preview of Outline Client: successful connect][docs._assets.external-outline-keys-12]
 
    13. If you have several connections to different servers or with different keys, you can rename them in the settings ("three dots" button);
    14. Now you own a private VPS service!
