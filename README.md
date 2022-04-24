@@ -97,7 +97,7 @@ The latest version of web clients is available for:
 12. Now you can work through Putty terminal!
 
 ## Installing an Outline VPN Service on your server.
-1. ### Docker installation.
+### Docker installation.
    1. Synchronize the package index files from their sources:
       ```shell
       sudo apt update
@@ -126,7 +126,7 @@ The latest version of web clients is available for:
       ```shell
       sudo apt install docker-ce
       ```
-2. ### Outline Manager & VPN Service Installation.
+### Outline Manager & VPN Service Installation.
    1. Go to [getoutline.org][external.outline];
    2. Click on the "GET OUTLINE" button: ![Preview of getoutline.org page][docs._assets.external-outline-manager-2]
    3. Click on the "GET OUTLINE MANAGER" button: ![Preview of getoutline.org get-started page: manager][docs._assets.external-outline-manager-3]
@@ -147,13 +147,13 @@ The latest version of web clients is available for:
    14. Click on the "Settings" button: ![Preview of Outline Manager interface: server control panel][docs._assets.external-outline-manager-14]
    15. Change the server name if you wish: ![Preview of Outline Manager interface: server settings panel][docs._assets.external-outline-manager-15]
    16. Return to VPN Server Connections Panel.
-3. ### Outline Client Installation.
+### Outline Client Installation.
    1. Go to [getoutline.org/get-started][external.outline.get-started];
    2. Click on the "GET OUTLINE CLIENT" button: ![Preview of getoutline.org get-started page: client][docs._assets.external-outline-client-2]
    3. Choose OS: ![Preview of getoutline.org get-started page: step 3][docs._assets.external-outline-client-3-4]
    4. Click on the "GET OUTLINE CLIENT" button to download Outline Client;
    5. After downloading, run Outline Client.
-4. ### Granting access to VPN.
+### Granting access to VPN.
    1. Open Outline Manager's Connections Panel of your VPN server;
    2. Click on the "Add new key" button: ![Preview of Outline Manager: add new key button][docs._assets.external-outline-keys-2]
    3. Enter a name for the key (preferably a name that will identify the device, user, or group of users): ![Preview of Outline Manager: new key][docs._assets.external-outline-keys-3-4]
@@ -177,7 +177,7 @@ The latest version of web clients is available for:
 
    13. If you have several connections to different servers or with different keys, you can rename them in the settings ("three dots" button);
    14. Now you own a private VPS service!
-5. ### Outline Mobile Client Installation on Android via Play Store.
+### Outline Mobile Client Installation on Android via Play Store.
    1. Go to Google Play Store app, find the Outline app and install it: 
       
       ![Preview of Google Play Store][docs._assets.external-outline-client-1]
@@ -196,7 +196,7 @@ The latest version of web clients is available for:
    6. Ensure you have successfully connected: 
       
       ![Preview of Outline Client Mobile: successful connect confirmation][docs._assets.external-outline-client-6]
-6. ### Fixing problems.
+### Fixing problems.
    - If in Windows 10 the Outline client does not connect to the server, then you need to disable Hyper V. To do this, open PowerShell as an administrator and enter:
      ```shell
      Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor
